@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tanmay.MainActivity" >
+
+    
+    
+    <item android:id="@+id/for_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="for_search"
+        app:showAsAction="ifRoom"
+        />
+	 <item android:id="@+id/for_settings"
+          android:icon="@drawable/ic_action_settings"
+          android:title="for_settings"
+          app:showAsAction="ifRoom"
+           />
+
+</menu>
